@@ -5,8 +5,8 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/LevelPlay/Samples/UnityLevelPlaySample/Scenes/LevelPlaySample.unity
-    guid: bd1eb3e1953724de08fadd7cbbc6d358
+  - enabled: 1
+    path: Assets/Scenes/SimpleTesting.unity
+    guid: d9505f1e3d64bbc499b63ed5a5c082bd
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
